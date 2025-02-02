@@ -12,3 +12,11 @@ elif temp[-1] in ['f','F']:
 else:
     print('输入格式错误')
 
+
+
+'''
+str.format()  str中的{}将被()替换 str是string object的一个缩写
+{:.2f}其中f是float的缩写
+{:*>10}右对齐以*补充空白
+{:<10}左对齐
+{:^10}居中对齐'''
